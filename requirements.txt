@@ -1,0 +1,14 @@
+streamlit
+Pillow
+ultralytics
+python-dotenv
+langchain
+langchain-groq
+
+
+ultralytics==8.1.27
+
+fpdf
+opencv-python
+torch
+llama-3.3-70b-versatile
