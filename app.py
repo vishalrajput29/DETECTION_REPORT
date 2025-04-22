@@ -1,5 +1,6 @@
 import streamlit as st
-from utils import detect_tumor, generate_report, generate_pdf_bytes
+from utils.utils import detect_tumor, generate_report, generate_pdf_bytes
+
 
 st.title("Brain Tumor Detection & Report Generator")
 
